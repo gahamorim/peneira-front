@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Peneira</string>
+    <string name="title_activity_main">Peneira</string>
+    <string name="package_name">com.peneira.app</string>
+    <string name="custom_url_scheme">com.peneira.app</string>
+</resources>
